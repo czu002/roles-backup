@@ -2,3 +2,4 @@
 -name: Sample test for ansible
  role: 1
  role: 2
+new : role myone
